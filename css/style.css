@@ -1,0 +1,11 @@
+.panel-heading .nav{
+    margin: -10px -15px -11px;
+}
+
+.panel-heading .btn {
+      margin: -10px 0px;
+  }
+
+.panel-default .panel-heading .badge-info {
+    background-color: #2aabd2;
+}
